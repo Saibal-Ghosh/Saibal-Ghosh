@@ -16,6 +16,8 @@ I'm currently:
 
 🌱 Sharpening my Deep Learning & NLP skill set
 
-👯 Looking to contribute & collaborate on Kaggle competitions
+👯 Currently looking to contribute, collaborate & learn on Kaggle 
+
 
 https://www.kaggle.com/ghoshsaibal 
+https://public.tableau.com/app/profile/saibal3255
