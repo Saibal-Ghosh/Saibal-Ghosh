@@ -1,4 +1,4 @@
-                                                  Hi there 👋
+                                                      Hi there 👋
 
 I'm Saibal Ghosh, a Senior Data Analyst & a Database Professional and currently a 2x Kaggle Expert (Notebooks & Discussion).
 
@@ -20,4 +20,5 @@ I'm currently:
 
 
 https://www.kaggle.com/ghoshsaibal 
+
 https://public.tableau.com/app/profile/saibal3255
