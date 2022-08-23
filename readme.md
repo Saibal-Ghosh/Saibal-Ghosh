@@ -1,4 +1,4 @@
-Hi there 👋
+                                                  Hi there 👋
 
 I'm Saibal Ghosh, a Senior Data Analyst & a Database Professional and currently a 2x Kaggle Expert (Notebooks & Discussion).
 
@@ -17,3 +17,5 @@ I'm currently:
 🌱 Sharpening my Deep Learning & NLP skill set
 
 👯 Looking to contribute & collaborate on Kaggle competitions
+
+https://www.kaggle.com/ghoshsaibal 
