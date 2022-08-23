@@ -11,6 +11,9 @@ Also passionate about creating ML/AI based products
 I'm currently:
 
 👩‍💻 Senior Data Analyst at NC  || ex-BT || ex-Capgemini
+
 👩‍💻 Telecom CRM BSS - E2E Data Modelling, Visualization & Analytics Consultant
+
 🌱 Sharpening my Deep Learning & NLP skill set
+
 👯 Looking to contribute & collaborate on Kaggle competitions
