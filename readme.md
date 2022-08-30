@@ -1,4 +1,7 @@
-                                                      Hi there 👋
+<h1>
+Hi there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 I'm Saibal Ghosh, a Senior Data Analyst & a Database Professional and currently a 2x Kaggle Expert (Notebooks & Discussion).
 
@@ -19,6 +22,33 @@ I'm currently:
 👯 Currently looking to contribute, collaborate & learn on Kaggle 
 
 
-https://www.kaggle.com/ghoshsaibal 
 
-https://public.tableau.com/app/profile/saibal3255
+<br></br> 
+
+<a href="https://www.kaggle.com/ghoshsaibal"></a>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+<div id="badges" align="center">
+ 
+  <a href="https://www.linkedin.com/in/saibal-ghosh-0b414418/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.kaggle.com/ghoshsaibal">
+    <img src="https://img.shields.io/badge/Kaggle-purple?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
+  </a>
+  <a href="https://public.tableau.com/app/profile/saibal3255">
+    <img src="https://img.shields.io/badge/Tableau-green?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Badge"/>
+  </a>
+</div>
+
+<br></br><br> 
+<h4>
+  Languages & Tools Known :
+</h4>  
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+
