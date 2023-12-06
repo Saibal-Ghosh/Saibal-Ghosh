@@ -13,7 +13,7 @@ Also passionate about creating ML/AI based products
 
 I'm currently:
 
-👩‍💻 Senior Data Analyst at NC  || ex-BT || ex-Capgemini
+👩‍💻 Senior Data & Analytical Business Analyst at NC  || ex-BT || ex-Capgemini
 
 👩‍💻 Telecom CRM BSS - E2E Data Modelling, Visualization & Analytics Consultant
 
@@ -62,5 +62,9 @@ I'm currently:
   <img src="https://github.com/devicons/devicon/blob/master/icons/unix/unix-original.svg" title="UNIX"  alt="Oracle" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" **alt="MongoDB" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="MongoDB" **alt="Jira" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg" title="Confluence" **alt="Jira" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg" title="Confluence" **alt="Kaggle" width="40" height="40"/>
 </div>
+
 
