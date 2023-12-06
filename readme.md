@@ -41,6 +41,12 @@ I'm currently:
   <a href="https://public.tableau.com/app/profile/saibal3255">
     <img src="https://img.shields.io/badge/Tableau-green?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Badge"/>
   </a>
+  <a href="https://medium.com/@saibal2001">
+    <img src="https://img.shields.io/badge/Medium-red?style=for-the-badge&logo=tableau&logoColor=white" alt="Medium Badge"/>
+  </a>  
+  <a href="https://www.hackerrank.com/profile/saibal_ghosh_13">
+    <img src="https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=tableau&logoColor=white" alt="HackerRank Badge"/>
+  </a>    
 </div>
 
 <br></br><br> 
